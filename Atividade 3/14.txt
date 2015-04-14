@@ -1,0 +1,7 @@
+As atribuições permitidas são:
+
+  - Letra "a",i = f, sendo que a variável i (do tipo inteiro) só armazena o valor inteiro da variável f (do tipo float).
+  - Letra "c", *pf = 5.9;
+  - Letra "e", *pf = 10;
+  - Letra "f", f = i;
+  - Letra "h", *pi = 7.3 sendo que o ponteiro pi (do tipo inteiro) só armazena o valor inteiro do valor 7.3, ou seja, só armazena o valor 7.

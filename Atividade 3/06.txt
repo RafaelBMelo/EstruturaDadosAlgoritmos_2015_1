@@ -1,0 +1,1 @@
+A instrução está incorreta, pois quando usamos scanf, estamos alocando um espaço de memória para a variável a ser lida, o correto seria scanf("%d", px);

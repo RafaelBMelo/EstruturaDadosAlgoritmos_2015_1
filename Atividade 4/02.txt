@@ -1,0 +1,1 @@
+Letra "a" Sim, porém ao declarar o vetor de tamanho 30, este vetor armazenará 30 posições e não 31 como indica este código for(j = 0; j <=30; j++).

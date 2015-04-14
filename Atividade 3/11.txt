@@ -1,0 +1,5 @@
+As atribuições ilegais são:
+
+  - letra "b", *q = &j;
+  - letra "d", i = (*&)j;
+  - letra "f", q = &p;

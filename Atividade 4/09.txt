@@ -1,0 +1,3 @@
+Letra "c", a expressão pti += ptj não é válida.
+
+Letra "e".

@@ -1,0 +1,6 @@
+A saída deste programa será:
+  - o valor é 2293324, equivalente ao endereço de memória apontado pelo ponteiro p;
+  - o valor 7, que equivale a soma do conteúdo do endereço apontado pelo ponteiro p,5, adicionado ao inteiro 2, logo 5+2 = 7;
+  - o valor 5, pois *&p == p e **&p == *p, portanto **&p = 5.
+  - o valor 15, pois multiplica-se 3 pelo valor do endereço apontado pelo ponteiro p, logo 3x5 = 15;
+  - o valor 9, pois **&p igual a 5, e somado com 4 é igual a 9.

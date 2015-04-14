@@ -1,0 +1,1 @@
+O número máximo de caracteres que poderão ser lidos e armazenados em uma string declarada como char str[20] são 19 caracateres, já que um string é um vetor de caracteres que possui como último elemento \0.

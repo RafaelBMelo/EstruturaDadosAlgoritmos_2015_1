@@ -1,0 +1,1 @@
+Letra "c" terceiro elemento, pois na linguagem C, o primeiro elemento de um vetor é vet[0], logo o segundo elemento é vet[1] e por sua vez vet[2] é o terceiro elemento.

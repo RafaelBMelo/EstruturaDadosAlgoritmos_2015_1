@@ -1,0 +1,1 @@
+A afirmativa falsa é a letra "e", pti é igual a 10, pois está afirmando que pti é igual ao valor do endereço apontado pelo ponteiro *pti, sendo que pti é igual ao endereço de da variável i;

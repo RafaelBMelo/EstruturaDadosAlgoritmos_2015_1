@@ -1,0 +1,5 @@
+letra a) O valor da expressão p == &i é verdadeiro ou valor diferente de 0, pois p equivale ao endereço de memória apontado pelo ponteiro p, que por sua vez aponta para o endereço de memória da variável i.
+
+letra b) O valor da expressão *p - *q = -2, pois o valor do endereço de memória apontado pelo ponteiro p é igual a 3 e o valor do endereço de memória apontado pelo ponteiro q é igual a 5, logo *p - *q = -2.
+
+letra c) O valor de **&p é igual a 3, onde *&p == p, portanto **&p == *p = 3. 

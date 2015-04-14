@@ -1,0 +1,1 @@
+Letra "e", pois *((*matr)+1) é igual a 2.

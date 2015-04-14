@@ -1,0 +1,17 @@
+a) x = 10
+b) *py = 5,9
+c) px = 2293300, endereço de memória para o qual o ponteiro px aponta.
+d) &y = 2293296, endereço de memória da variável y.
+e) *px = 10, valor armazenado no endereço de memória para o qual o ponteiro px aponta.
+f) y = 5,9
+g) *ppx = 10, valor armazenado no endereço de memória para o qual o ponteiro ppx aponta.
+h) py = 2293296, endereço de memória para o qual o ponteiro py aponta.
+i) &x = 2293300, endereço de memória da variável x.
+j) py++ = 2293300
+k) *px-- = 2293296
+l) **py = 5,9
+m) &ppy = 2293288, endereço de memória para o qual o ponteiro ppy aponta.
+n) *&px = 2293300
+o) **ppx++ = 2293308
+p) px++ = px = 2293304
+q) &ppx = 2293296

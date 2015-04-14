@@ -1,0 +1,1 @@
+Ponteiros nada mais são do que apontadores, que indicam qual o nome de uma determinada variável, ou seja, o ponteiro possui o endereço de memória de uma variável, e desta forma, consegue alterar o valor que está armazenado naquela posição.

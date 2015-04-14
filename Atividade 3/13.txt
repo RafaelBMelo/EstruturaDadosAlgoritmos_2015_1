@@ -1,0 +1,6 @@
+As atribuições permitidas são:
+
+  - Letra "a", x = 100;
+  - Letra "g", *ptx = 20;
+  - Letra "h", ptx = &x;
+  - Letra "i", pp = &x;

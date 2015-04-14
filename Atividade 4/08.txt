@@ -1,0 +1,1 @@
+Leta "a", efetuamos a leitura de f, pois scanf("%f", pf) está armazenando o valor escrito pelo usuário no endereço apontado pelo ponteiro pf que é justamente o endereço da variável f.

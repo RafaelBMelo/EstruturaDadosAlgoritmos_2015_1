@@ -1,0 +1,1 @@
+A afirmativa falsa é a letra "d", pois pti[1] é igual a 7.

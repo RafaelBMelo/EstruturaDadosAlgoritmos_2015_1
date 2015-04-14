@@ -1,0 +1,1 @@
+A atribuição ilegal é a letra "f", *pj = &j, deve-se atribuir da seguinte forma int *p = &j ou p = &j
